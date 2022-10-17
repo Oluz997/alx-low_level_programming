@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
  *
- * main - Prints a line of code successfully
+ * main - Prints a line of code using puts
  *
  * Rerurn: 0
 */
