@@ -1,9 +1,10 @@
 #include <stdio.h>
-/*
+/**
  *
- * main - print a line of code using puts
+ * main - Entry mode
  *
- * Return: 0
+ * Return: Always 0
+ *
  */
 int main(void)
 {
