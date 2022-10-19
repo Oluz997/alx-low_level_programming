@@ -4,7 +4,7 @@
  *
  * Return: 0
  */
-int nain(void)
+int main(void)
 {
 	int i, k = '0', j;
 
