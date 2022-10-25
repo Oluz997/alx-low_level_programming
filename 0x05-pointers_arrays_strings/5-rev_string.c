@@ -5,6 +5,7 @@
  * @s: input string.
  * Return: no return.
  */
+
 void rev_string(char *s)
 {
 	int count = 0, i, j;
@@ -17,7 +18,7 @@ void rev_string(char *s)
 		count++;
 	}
 	str = s;
-	
+
 	for (i = 0; i < (count - 1); i++)
 	{
 		for (j = i + 1; j > 0; j--)
