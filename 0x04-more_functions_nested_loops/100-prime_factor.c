@@ -4,6 +4,7 @@
  * main - prints largest prime factor.
  * Return: Always 0.
  */
+
 int main(void)
 {
 	long int n, fp;
@@ -17,4 +18,6 @@ int main(void)
 			fp--;
 		}
 	}
+	printf("%ld\n", fp);
+	return (0);
 }
