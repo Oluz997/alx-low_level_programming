@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/**
+ * main-this code doea magic where needed
+ * Return: 0
+ */
+
 int main(void)
 {
 	int n;
