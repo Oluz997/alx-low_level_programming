@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main-this code doea magic where needed
+ * main-this code does magic where needed
  * Return: 0
  */
 
